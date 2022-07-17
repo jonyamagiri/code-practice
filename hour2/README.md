@@ -1,7 +1,6 @@
 ## Hour2 - Writing Your First C Program
 
-> In this lesson you’ll write your first C program and learn the basics of a C pro-
-gram, such as: 
+> In this lesson you’ll write your first C program and learn the basics of a C program, such as: 
 
 * The #include directive
 * Header files
