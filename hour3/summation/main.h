@@ -7,6 +7,7 @@
 
 /* function prototypes */
 int integer_add(int x, int y);
+int int_mult(int x, int y);
 
 
 #endif /* MAIN_H */
