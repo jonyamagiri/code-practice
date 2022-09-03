@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/95341497/188277979-06d6d5f2-337d-4a76-a627-4d22fbaeacaf.png)
+![image](https://user-images.githubusercontent.com/95341497/188278550-8271bbd2-f6bc-4488-a830-04dfb9d3d668.png)
 
 
 #### The Basics of C:
